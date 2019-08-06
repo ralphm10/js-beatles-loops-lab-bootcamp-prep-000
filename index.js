@@ -25,7 +25,7 @@ function iLoveTheBeatles (num) {
   
   let beatlesarray = []
   let string = "I love the Beatles!"
-  var i = 0
+  
   do {
     i = i + 1;
     beatlesarray.push(string)
