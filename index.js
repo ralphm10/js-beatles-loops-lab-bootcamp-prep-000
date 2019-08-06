@@ -27,8 +27,9 @@ function iLoveTheBeatles (num) {
   let string = "I love the Beatles!"
   
   do {
-    i = i + 1;
+    
     beatlesarray.push(string)
+    num ++
     }
    while (i < 15);
    return beatlesarray;
