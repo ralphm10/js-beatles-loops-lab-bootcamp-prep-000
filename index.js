@@ -31,6 +31,6 @@ function iLoveTheBeatles (num) {
     beatlesarray.push(string)
     num ++;
     }
-   while (i < 15);
+   while (num < 15);
    return beatlesarray;
    }
